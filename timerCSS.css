@@ -1,0 +1,40 @@
+﻿
+   #krug{
+    height:200px;
+	width: 200px;
+	border-radius: 200px;
+	margin: 100px auto auto auto;
+	background: black;
+	color: white;
+	display:-webkit-box;
+	-webkit-box-align: center;
+   }
+   #vse{
+    height:80px;
+	width: 250px;
+	margin: 100px auto auto auto;
+	border: 2px solid;
+   }
+   #buttons{
+    display:-webkit-box;
+	-webkit-box-orient: horizontal;
+   }
+   .cifri{
+   }
+   
+   button{
+    height:30px;
+	width: 30px;
+	border-radius:30px;
+   }
+   p{
+    margin:0px;
+	text-align:center;
+	height:20px;
+	width: 30px;
+   }
+   .upr{
+    height:30px;
+	width: 60px;
+	margin: 0px 30px 0px 30px;
+   }
